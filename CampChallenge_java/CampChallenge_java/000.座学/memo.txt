@@ -1,19 +1,19 @@
-Windows‚ÌƒGƒfƒBƒVƒ‡ƒ“
+ï»¿Windowsã®ã‚¨ãƒ‡ã‚£ã‚·ãƒ§ãƒ³
 Windows 10 Home
 
-ƒo[ƒWƒ‡ƒ“
+ãƒãƒ¼ã‚¸ãƒ§ãƒ³
 1607
 
-Osƒrƒ‹ƒh
+Osãƒ“ãƒ«ãƒ‰
 14393.953
 
-ƒvƒƒZƒbƒT
+ãƒ—ãƒ­ã‚»ãƒƒã‚µ
 Intel(R) Core(TM) i5-3210M
 CPU @ 2.5GHz 2.5GHz
 
-ŽÀ‘•ƒƒ‚ƒŠ(RAM)
+å®Ÿè£…ãƒ¡ãƒ¢ãƒª(RAM)
 8.00 GB
 
-ƒVƒXƒeƒ€‚ÌŽí—Þ
-64ƒrƒbƒgƒIƒyƒŒ[ƒeƒBƒ“ƒOƒVƒXƒeƒ€
-x64ƒx[ƒXƒvƒƒZƒbƒT
+ã‚·ã‚¹ãƒ†ãƒ ã®ç¨®é¡ž
+64ãƒ“ãƒƒãƒˆã‚ªãƒšãƒ¬ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚·ã‚¹ãƒ†ãƒ 
+x64ãƒ™ãƒ¼ã‚¹ãƒ—ãƒ­ã‚»ãƒƒã‚µ
