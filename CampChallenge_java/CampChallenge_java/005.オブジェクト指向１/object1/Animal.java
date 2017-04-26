@@ -24,7 +24,7 @@ public class Animal {                          //メインクラス名
         Cat cat = new Cat();
         Cat cat2 = new Cat();
         
-        cat.Animal("三毛猫", 3);
+        cat.Animal("三毛猫", 3);            //引数
         cat2.Animal("null",0);
         
         cat.print();
@@ -34,7 +34,7 @@ public class Animal {                          //メインクラス名
     }
 }
 
-class Cat {
+class Cat {                                          //クラスがあるから下のメソッドで使える
     public String type = "";
     public int age = 0;
     
